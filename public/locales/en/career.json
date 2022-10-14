@@ -1,0 +1,82 @@
+{
+  "title": "CAREERS",
+  "benefits": {
+    "title": "Benefits",
+    "details": [
+      "Can negociate flex working hours(8 hrs)",
+      "Provide Online Course for New Technology and also Japanese Language within Office (5 hours in one week).",
+      "Can get chance career growth opportunity in Japan."
+    ],
+    "imageUrl": "/careerpath.webp"
+  },
+  "allowanceAndWelfareProgram": {
+    "title": "Allowance & Welfare Program",
+    "basicSalaryTxt": "Basic Salary",
+    "generalDetails": [
+      "Transportation Charges",
+      "Technical skill allownace",
+      "Management skill allownace",
+      "Qualification allownace (JLPT,Certificate or Diploma in relevant position)",
+      "Performance Bonus twice times (January and July) in a year",
+      "Marriage Allowance",
+      "Funeral Allowance",
+      "Overtime Allowance",
+      "Leave Allowance"
+    ],
+    "workingPeriod": {
+      "title": "Working Period",
+      "detail": "8:30 - 17:50 (can Nego Flexiable time)\nMonday to Friday\nLunch Break - 1 Hour (Flexiable time)"
+    },
+    "workingPlace": {
+      "title": "Working Place",
+      "detail": "Room,204, No.5, Grand Nawaday Condo, Nawaday Street, Dagon Township, Yangon, Myanamar.\nNear B.E.H.S (1) Dagon School or Thamada Cinema"
+    },
+    "holidays": {
+      "title": "Holidays",
+      "detail": "Saturday, Sunday,Public Holidays"
+    }
+  },
+  "lookingFor": {
+    "title": "We are looking for candidates who meet the following facts",
+    "details": [
+      "person who can present his own idea and can communicate and interact at ease",
+      "person who can work with team and attention to details",
+      "person who has good time management skill,self-motivation, honesty",
+      "person who is enthusiastic and tries hard to develop own skills",
+      "person who has future goals and ables to cope with challenges to achieve goals"
+    ]
+  },
+  "jobOpportunities": {
+    "title": "Job Opportunities",
+    "jobs": [
+      {
+        "role": "Senior Java Developer",
+        "salary": "Negotiable",
+        "type": "Full Time",
+        "location": "Yangon, Myanmar",
+        "detailsUrl": "",
+        "applyUrl": "",
+        "jobDescription": [
+          "Project experience over 4 years.",
+          "At least 3 years in implementing Java 8, J2EE and related Java technologies.",
+          "Strong hands on experience on Spring core and Spring JPA.",
+          "Japanese language proficiency level N3 or higher."
+        ]
+      },
+      {
+        "role": "Senior PHP Developer",
+        "salary": "Negotiable",
+        "type": "Full Time",
+        "location": "Yangon, Myanmar",
+        "detailsUrl": "",
+        "applyUrl": "",
+        "jobDescription": [
+          "Project experience over 4 years.",
+          "At least 3 years in web programming experience with any programming language and MVC framework.",
+          "Strong technical skills and knowledge with the latest web development technology of Git knowledge, VueJS, ReactJS, Laravel 8/9, MySQL.",
+          "Japanese language proficiency level N3 or higher."
+        ]
+      }
+    ]
+  }
+}

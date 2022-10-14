@@ -1,0 +1,21 @@
+{
+  "greetings": "いらっしゃいませ",
+  "carousel": [
+    {
+      "title": "MySol Co. Ltd.",
+      "subtitle": "Japanese System Development Company",
+      "imageUrl": "/slide-01.webp"
+    },
+    {
+      "title": "ミッション",
+      "subtitle": "高品質で費用対効果の高いソリューションを提供するため。",
+      "imageUrl": "/slide-02.webp"
+    }
+  ],
+  "quote": {
+    "imageUrl": "/BC_ModernOffice.webp",
+    "title": "私たちはコラボレーションを信じています。一緒に働くことで、私たちは多くのことを達成することができます。",
+    "subtitle": "たくさんのサービスを提供しています。私たちはあなたのニーズに合わせてあらゆる種類のウェブサイトを作ることができます。複雑なタスクを解決し、作業に特定の機能を実現するためのWebアプリケーションを開発できます。あなたのビジネスにAndroidアプリが必要な場合は、Androidアプリケーションを開発できます。",
+    "actionText": "サービス"
+  }
+}

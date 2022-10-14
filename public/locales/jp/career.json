@@ -1,0 +1,82 @@
+{
+  "title": "キャリア",
+  "benefits": {
+    "title": "メリット",
+    "details": [
+      "フレックス労働時間（8時間）を交渉することができます",
+      "オフィス内で日本語のオンラインコースを提供する（1週間で5時間）",
+      "日本でのキャリア成長のチャンスを得ることができます"
+    ],
+    "imageUrl": "/careerpath.webp"
+  },
+  "allowanceAndWelfareProgram": {
+    "title": "特典プラン",
+    "basicSalaryTxt": "基本給",
+    "generalDetails": [
+      "交通費",
+      "技術スキル許可",
+      "管理スキルの許可",
+      "資格試験（JLPT、証明書または関連する卒業証書）",
+      "パフォーマンスボーナスは1年に2回（1月と7月）",
+      "結婚手当",
+      "葬儀手当",
+      "残業手当",
+      "手当を残す"
+    ],
+    "workingPeriod": {
+      "title": "作業期間",
+      "detail": "8:30-17:50（タイムを調査）\n月曜日から金曜日\n昼休み-1時間（タイムを調査）"
+    },
+    "workingPlace": {
+      "title": "職場",
+      "detail": "Room,204, No.5, Grand Nawaday Condo, Nawaday Street, Dagon Township, Yangon, Myanamar.\nNear B.E.H.S (1) Dagon School or Thamada Cinema"
+    },
+    "holidays": {
+      "title": "休日",
+      "detail": "土・日・祝日"
+    }
+  },
+  "lookingFor": {
+    "title": "以下の事実を満たす候補者を募集しています",
+    "details": [
+      "自分の考えを提示でき、コミュニケーションや交流ができる人",
+      "チームと一緒に仕事ができ、細部に気を配ることができる人",
+      "優れた時間管理スキル、自発性、誠実さを持っている人",
+      "熱心で自分のスキルを磨こうとしている人",
+      "将来の目標を持ち、目標を達成するための課題に対処できる人"
+    ]
+  },
+  "jobOpportunities": {
+    "title": "雇用機会",
+    "jobs": [
+      {
+        "role": "Senior Java Developer",
+        "salary": "Negotiable",
+        "type": "Full Time",
+        "location": "Yangon, Myanmar",
+        "detailsUrl": "",
+        "applyUrl": "",
+        "jobDescription": [
+          "Project experience over 4 years.",
+          "At least 3 years in implementing Java 8, J2EE and related Java technologies.",
+          "Strong hands on experience on Spring core and Spring JPA.",
+          "Japanese language proficiency level N3 or higher."
+        ]
+      },
+      {
+        "role": "Senior PHP Developer",
+        "salary": "Negotiable",
+        "type": "Full Time",
+        "location": "Yangon, Myanmar",
+        "detailsUrl": "",
+        "applyUrl": "",
+        "jobDescription": [
+          "Project experience over 4 years.",
+          "At least 3 years in web programming experience with any programming language and MVC framework.",
+          "Strong technical skills and knowledge with the latest web development technology of Git knowledge, VueJS, ReactJS, Laravel 8/9, MySQL.",
+          "Japanese language proficiency level N3 or higher."
+        ]
+      }
+    ]
+  }
+}

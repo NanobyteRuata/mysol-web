@@ -1,0 +1,82 @@
+{
+  "title": "အသက်မွေးဝမ်းကြောင်း",
+  "benefits": {
+    "title": "အကျိုးကျေးဇူးများ",
+    "details": [
+      "အလုပ်ချိန်(၈နာရီ)အား ညှိနှိုင်း ဆောင်ရွက်ခွင့် ထားရှိပေးခြင်း၊",
+      "ခေတ်မီနည်းပညာအသစ်များ ထပ်ထပ်လေ့လာနိုင်ရန် အခွင့်အလမ်းရရှိခြင်း၊မိမိ၏ ဂျပန်စာစွမ်းရည်ကိုမြှင့်တင်နိုင်ခြင်း၊",
+      "မိမိ၏ အရည်အချင်းပေါ်မူတည်၍ ဂျပန်နိုင်ငံရှိ Company တွင် သွားရောက်အလုပ်လုပ်ကိုင်လိုပါကအလုပ်အကိုင်မိတ်ဆက်ပေးခြင်း၊"
+    ],
+    "imageUrl": "/careerpath.webp"
+  },
+  "allowanceAndWelfareProgram": {
+    "title": "ခံစားခွင့် အစီအစဉ်",
+    "basicSalaryTxt": "အခြေခံလစာ",
+    "generalDetails": [
+      "ရုံးသွားရုံးပြန် လမ်းစရိတ်",
+      "နည်းပညာပိုင်းဆိုင်ရာ ကျွမ်းကျင်မှု ထောက်ပံ့ခြင်",
+      "စီမံခန့်ခွဲမှုစွမ်းရည်များထောက်ပံ့ခြင်း",
+      "အောင်လက်မှတ်ခံစားခွင့် (JLPT, Certificate or Diploma in relevant position)",
+      "စွမ်းဆောင်ရည်အကဲဖြတ်ခြင်း အစီအစဉ် (တစ်နှစ်လျှင် နှစ်ကြိမ်၊ ဇန်နဝါရီလ နှင့် ဇူလိုင်လ)",
+      "လက်ထပ်ခြင်း အထိမ်းအမှတ် ချီးမြှင့်ငွေ",
+      "နာရေးကူညီမှုစရိတ်",
+      "အချိန်ပိုကြေး ခံစားခွင့်",
+      "ခွင့်ရက် ခံစားခွင့်"
+    ],
+    "workingPeriod": {
+      "title": "အလုပ်ချိန်",
+      "detail": "၈နာရီ ၃၀မိနစ် - ၅နာရီ ၃၀မိနစ် (အချိန် ညှိနှိုင်းနိုင်ခြင်း)\nတနလ်ာနေ့ မှ သောကြာနေ့\nနေ့လည်နားချိန် - ၁နာရီ (အချိန် ညှိနှိုင်းနိုင်ခြင်း)"
+    },
+    "workingPlace": {
+      "title": "တည်နေရာ",
+      "detail": "အခန်း(၂၀၄)၊ နံပါတ်(၅)၊ Grand Nawaday ကွန်ဒို၊ နဝဒေးလမ်း၊ရန်ကုန်၊ မြန်မာနိုင်ငံ။\nဒဂုံ (၁) ကျောင်း အနီး (သို့) သမ္မတရုပ်ရှင်ရုံအနီး"
+    },
+    "holidays": {
+      "title": "ပိတ်ရက်များ",
+      "detail": "စနေ၊ တနဂ်နွေ၊ အစိုးရရုံးပိတ်ရက်များ။"
+    }
+  },
+  "lookingFor": {
+    "title": "အောက်ပါအချက်များနှင့်ကိုက်ညီသော လူ့စွမ်းအားအရင်းအမြစ်များကို ကျွန်ုပ်တို့ ရှာဖွေနေပါသည်။",
+    "details": [
+      "မိမိစိတ်ကူးကို တင်ပြနိုင်သူဖြစ်ပြီး လုပ်ငန်းခွင်တွင်း ပြေပြေလည်လည် ပြောဆိုဆက်ဆံနိုင်သူ",
+      "အဖွဲ့လိုက်လုပ်ဆောင်နိုင်ပြီး အသေးစိတ်အချက်အလက်များကို အာရုံစိုက်နိုင်သူ",
+      "အချိန်ကို စီမံခန့်ခွဲတတ်သူ၊ စိတ်အားထက်သန်မှု၊ ရိုးသားမှု ရှိသူ",
+      "စိတ်အားထက်သန်ပြီး ကိုယ်ပိုင်အရည်အချင်းများ တိုးတက်အောင် ကြိုးစားလုပ်ဆောင်နေသူ",
+      "အနာဂတ်ရည်မှန်းချက်များရှိပြီး မိမိပန်းတိုင်ရောက်ရန် စိန်ခေါ်မှုများကို ရင်ဆိုင်ကျော်လွှားနိုင်သူ"
+    ]
+  },
+  "jobOpportunities": {
+    "title": "အလုပ်အကိုင် အခွင့်အလမ်းများ",
+    "jobs": [
+      {
+        "role": "Senior Java Developer",
+        "salary": "Negotiable",
+        "type": "Full Time",
+        "location": "Yangon, Myanmar",
+        "detailsUrl": "",
+        "applyUrl": "",
+        "jobDescription": [
+          "Project experience over 4 years.",
+          "At least 3 years in implementing Java 8, J2EE and related Java technologies.",
+          "Strong hands on experience on Spring core and Spring JPA.",
+          "Japanese language proficiency level N3 or higher."
+        ]
+      },
+      {
+        "role": "Senior PHP Developer",
+        "salary": "Negotiable",
+        "type": "Full Time",
+        "location": "Yangon, Myanmar",
+        "detailsUrl": "",
+        "applyUrl": "",
+        "jobDescription": [
+          "Project experience over 4 years.",
+          "At least 3 years in web programming experience with any programming language and MVC framework.",
+          "Strong technical skills and knowledge with the latest web development technology of Git knowledge, VueJS, ReactJS, Laravel 8/9, MySQL.",
+          "Japanese language proficiency level N3 or higher."
+        ]
+      }
+    ]
+  }
+}

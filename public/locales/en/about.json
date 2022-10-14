@@ -1,0 +1,76 @@
+{
+  "title": "Myanmar Solution",
+  "background": {
+    "title": "Background",
+    "description": "Myanmar has a large number of talented technical engineers, but the economic downturn has led to job shortages, while in Japan there has been a shortage of qualified and young technical engineers but technological advances. Considering these situations, not only for those who want to gain work experience in Myanmar who are interested in technology, but also for those who have the potential to develop skills and competencies. It was established with the aim of creating a strong Japan-Myanmar cooperation technology field that can produce qualified technicians."
+  },
+  "about": {
+    "title": "About",
+    "description": "A software development company founded by a visionary IT professionals who are providing extending innovative software services on our customer’s journey to ‘Digital Transformation’. Our Head Office, MySol, is in Japan. We set up effective with new Myanmar engineers who are well trained and well educated and provide on the job training (OJT) programs and professional courses at work and give good experiences to all.We care not only our high quality members and products but also clients' satisfaction.We maintain our workplace to be excellent and productive.We provide expert technology advisory services to individuals and small businesses."
+  },
+  "businessOrganization": {
+    "title": "Business Organization",
+    "participants": [
+      {
+        "imageUrl": "/team-7.webp",
+        "position": "Co-founder & Consultant",
+        "name": "Mr.上垣様人"
+      },
+      {
+        "imageUrl": "/team-1.webp",
+        "position": "General Manager",
+        "name": "Kyaw Phyo Naing"
+      }
+    ]
+  },
+  "myanmarTeamMembers": {
+    "title": "Myanmar Team Members",
+    "participants": [
+      {
+        "imageUrl": "/team-6.webp",
+        "position": "HR & Finance",
+        "name": "Shoon Lai Moe Oo"
+      },
+      {
+        "imageUrl": "/team-2.webp",
+        "position": "Team Leader",
+        "name": "Su Mon Kyaw"
+      },
+      {
+        "imageUrl": "/team-3.webp",
+        "position": "Senior Developer",
+        "name": "Kyaw Zin Thet"
+      },
+      {
+        "imageUrl": "/team-8.webp",
+        "position": "Senior Developer",
+        "name": "Sa Thein Soe San"
+      },
+      {
+        "imageUrl": "/team-4.webp",
+        "position": "Senior Developer",
+        "name": "Yu Nathah"
+      },
+      {
+        "imageUrl": "/team-5.webp",
+        "position": "Senior Developer",
+        "name": "Shwe Yi Mon"
+      }
+    ]
+  },
+  "partners": {
+    "title": "Our Partners",
+    "participants": [
+      {
+        "imageUrl": "/Partner_1.webp",
+        "title": "VMO Japan",
+        "description": "The Professional Software Development Service Provider Alternatives & Competitors for Enterprise Businesses."
+      },
+      {
+        "imageUrl": "/Partner_2.webp",
+        "title": "Calypso Technology",
+        "description": "Global provider of capital markets software. Its integrated platform enables financial trading, processing, risk management and accounting across multiple asset classNamees and is used by over 35,000 market professionals in 60+ countries."
+      }
+    ]
+  }
+}

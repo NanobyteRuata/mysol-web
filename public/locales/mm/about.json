@@ -1,0 +1,76 @@
+{
+  "title": "Myanmar Solution",
+  "background": {
+    "title": "ကုမ္ပဏီ နောက်ခံသမိုင်းကြောင်း",
+    "description": "မြန်မာနိုင်ငံတွင် ထူးချွန်သော နည်းပညာဆိုင်ရာ အင်ဂျင်နီယာများစွာ ရှိသော်လည်း စီးပွားရေးကျဆင်းမှုကြောင့် အလုပ်အကိုင် အခွင့်အလမ်းများ ရှားပါးလာပြီး ဂျပန်နိုင်ငံတွင်မူ အရည်အသွေးပြည့်ဝ၍ ငယ်ရွယ်သော နည်းပညာဆိုင်ရာ အင်ဂျင်နီယာများ နည်းပါးလာပြီး နည်းပညာရပ်များမှာမူ တစ်ဟုန်ထိုး တိုးတက်လာသည်။ ထိုအခြေအနေများကို သုံးသပ်ကာ နည်းပညာရပ်များ စိတ်ပါဝင်စားသော မြန်မာနိုင်ငံရှိ လုပ်ငန်း အတွေ့အကြုံ ရယူလိုသူများ အတွက် သာမက အရည်အချင်းပြည့်ဝ၍ ကျွမ်းကျင်တိုးတက်ရန် အလားအလာရှိသူများ၊ အရည်အချင်းပြည့်ဝသော နည်းပညာရှင်များ အား မွေးထုတ်ပေးနိုင်ပြီး ကောင်းမွန်ကြံ့ခိုင်သော ဂျပန်-မြန်မာ ပူးပေါင်းလုပ်ဆောင်သော နည်းပညာနယ်ပယ် တစ်ခု ဖြစ်တည်လာစေရန် ရည်ရွယ်၍ တည်ထောင်ခဲ့ခြင်း ဖြစ်ပါသည်။"
+  },
+  "about": {
+    "title": "ကုမ္ပဏီအကြောင်း",
+    "description": "ကျွန်ုပ်တို့ ကုမ္ပဏီသည် သုံးစွဲသူတို့အတွက် ဆန်းသစ်သော နည်းပညာပိုင်းဆိုင်ရာ ဝန်ဆောင်မှုများကို တိုးချဲ့ပံ့ပိုးပေးနေသည့်အပြင် 'Digital Transformation' အသွင်သို့ ကူးပြောင်းလာသည့် မျက်မှောက်ခေတ်တွင် ကျွမ်းကျင်သော နည့်းပညာပိုင်းဆိူင်ရာ Professional တို့ဖြင့် ဖွဲ့စည်းထားပါသည်။ ပင်မကုမ္ပဏီဖြစ်သော MySol သည် ဂျပန်နိုင်ငံတွင် တည်ရှိ၍ ယခုအခါတွင် ကျွမ်းကျင်သော မြန်မာလူမျိုးဝန်ထမ်းများဖြင့် စတင်လည်ပတ်နေပြီး Member များအား OJT Programs များ၊ Training & Development စသည့် လုပ်ငန်းခွင်အတွေ့အကြုံများစွာ ရရှိနိုင်ရန် ‌ဆောင်ရွက်နေလျက်ရှိပါသည်။ ကျွန်ုပ်တို့သည် ကျွမ်းကျင်သော အဖွဲ့ဝင်များနှင့် ထုတ်ကုန်များ ကို သာမက သုံးစွဲသူများ၏ စိတ်ကျေနပ်မှုများကို ပါ အစဉ်တစိုက် လေ့လာဂရုစိုက်ဆောင်ရွက်ပေးနေလျက် ရှိပါသည်။ ကျွန်ုပ်တို့သည် လုပ်ငန်းခွင်နှင့် လုပ်ငန်းခွင်ပတ်ဝန်းကျင်အား ကောင်းမွန်တိုးတက်၍ အကျိုးဖြစ်ထွန်းစေရန် အစဉ်အမြဲ ထိန်းသိမ်းလုပ်ဆောင်နေလျက်ရှိပါသည်။ကျွန်ုပ်တို့သည် မှန်ကန်ထိရောက်ဆုံးသော၊ စိတ်ချရဆုံးသော နည်းပညာများဖြင့် သုံးစွဲသူများအား အကောင်းဆုံးဝန်ဆောင်မှုများကို ဆောင်ရွက်ပေးပါသည်။"
+  },
+  "businessOrganization": {
+    "title": "Business Organization",
+    "participants": [
+      {
+        "imageUrl": "/team-7.webp",
+        "position": "Co-founder & Consultant",
+        "name": "Mr.上垣様人"
+      },
+      {
+        "imageUrl": "/team-1.webp",
+        "position": "General Manager",
+        "name": "ကိုကျော်ဖြိုးနိုင်"
+      }
+    ]
+  },
+  "myanmarTeamMembers": {
+    "title": "Myanmar Team Members",
+    "participants": [
+      {
+        "imageUrl": "/team-6.webp",
+        "position": "HR & Finance",
+        "name": "မရွှန်းလဲ့မိုးဦး"
+      },
+      {
+        "imageUrl": "/team-2.webp",
+        "position": "Team Leader",
+        "name": "မဆုမွန်ကျော်"
+      },
+      {
+        "imageUrl": "/team-3.webp",
+        "position": "Senior Developer",
+        "name": "ကိုကျော်ဇင်သက်"
+      },
+      {
+        "imageUrl": "/team-8.webp",
+        "position": "Senior Developer",
+        "name": "ကိုစသိန်းစိုးစံ"
+      },
+      {
+        "imageUrl": "/team-4.webp",
+        "position": "Senior Developer",
+        "name": "မယုနံ့သာ"
+      },
+      {
+        "imageUrl": "/team-5.webp",
+        "position": "Senior Developer",
+        "name": "မရွှေရည်မွန်"
+      }
+    ]
+  },
+  "partners": {
+    "title": "ကျွန်ုပ်တို့နှင့် လက်တွဲလုပ်ဆောင်သူများ",
+    "participants": [
+      {
+        "imageUrl": "/Partner_1.webp",
+        "title": "VMO Japan",
+        "description": "The Professional Software Development Service Provider Alternatives & Competitors for Enterprise Businesses."
+      },
+      {
+        "imageUrl": "/Partner_2.webp",
+        "title": "Calypso Technology",
+        "description": "Global provider of capital markets software. Its integrated platform enables financial trading, processing, risk management and accounting across multiple asset classNamees and is used by over 35,000 market professionals in 60+ countries."
+      }
+    ]
+  }
+}

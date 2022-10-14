@@ -1,0 +1,56 @@
+{
+  "title": "サービス",
+  "subtitle": "ソフトウェア開発と統合",
+  "services": [
+    {
+      "title": "ソフトウェア開発",
+      "subtitle": "複雑なエンタープライズソフトウェアを作成し、信頼性の高いソフトウェア統合を確保し、レガシーシステムを最新化します。",
+      "buttonText": "Get Quoatation",
+      "imageUrl": "/service-01.webp"
+    },
+    {
+      "title": "ソフトウェアのカスタマイズ",
+      "subtitle": "お客様の要件に応じてソリューションをカスタマイズします。優れたアーキテクチャと価値のあるデータプライバシーとデータセキュリティに対するソフトウェア品質と信頼性の高いソリューションの向上。",
+      "buttonText": "Get Quoatation",
+      "imageUrl": "/service-02.webp"
+    },
+    {
+      "title": "信頼性の高いシステム統合サービス",
+      "subtitle": "システムインテグレーションコンサルティング、APIインテグレーション",
+      "buttonText": "Get Quoatation",
+      "imageUrl": "/service-03.webp"
+    },
+    {
+      "title": "サービスとメンテナンス",
+      "subtitle": "当社のソフトウェア保守サービスでは、製品の問題や障害を修正して、製品のパフォーマンスを向上させることを目指しています。したがって、アプリケーションをスムーズに機能させるには、定期的に更新する必要があります。",
+      "buttonText": "Get Quoatation",
+      "imageUrl": "/service-04.webp"
+    },
+    {
+      "title": "専任開発チーム",
+      "subtitle": "ソリューションアーキテクチャとプロジェクトマネージャー、DevOpsメンバー、UX UIデザイナー、およびプロジェクトに取り組むために集まったその他の必要なメンバーとして、忠実で深い専門知識を提供し、提供します。",
+      "buttonText": "Get Quoatation",
+      "imageUrl": "/service-05.webp"
+    }
+  ],
+  "technologies": {
+    "title": "技術",
+    "imageUrls": [
+      "/html.svg",
+      "/css.svg",
+      "/bootstrap.svg",
+      "/js.svg",
+      "/php.svg",
+      "/reactjs.svg",
+      "/nextjs.svg",
+      "/nodejs.svg",
+      "/laravel.svg",
+      "/go-programming-language.svg",
+      "/c-sharp.svg",
+      "/mysql.svg",
+      "/sqlite.svg",
+      "/postgresql.svg",
+      "/ubuntu.svg"
+    ]
+  }
+}

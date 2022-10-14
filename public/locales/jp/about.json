@@ -1,0 +1,76 @@
+{
+  "title": "ミャンマーソリューション",
+  "background": {
+    "title": "バックグラウンド",
+    "description": "ミャンマーには有能な技術者が多数いますが、景気低迷により雇用が不足し、日本では有能で若手な技術者が不足していますが、技術は進歩しています。 このような状況を考えると、ミャンマーでの実務経験を積みたい技術に興味のある人だけでなく、スキルや能力を伸ばす可能性のある人にも。 資格のある技術者を輩出できる強力な日ミャンマー協力技術分野の創出を目的として設立されました。"
+  },
+  "about": {
+    "title": "会社概要",
+    "description": "お客様の「デジタルトランスフォーメーション」への道のりで革新的なソフトウェアサービスを拡張することを提供している先見の明のあるIT専門家によって設立されたソフトウェア開発会社。 本社のMySolは日本にあります。 私たちは、十分な訓練と教育を受けた新しいミャンマーのエンジニアと効果的にセットアップし、職場でのジョブトレーニング（OJT）プログラムと専門コースを提供し、すべての人に良い経験を提供します。私たちは高品質のメンバーと製品だけでなく、クライアントにも気を配っています。 満足度。私たちは職場を優れた生産性で維持します。私たちは個人や中小企業に専門的な技術アドバイザリーサービスを提供します。"
+  },
+  "businessOrganization": {
+    "title": "企業組織",
+    "participants": [
+      {
+        "imageUrl": "/team-7.webp",
+        "position": "共同創設者・コンサルタント",
+        "name": "Mr.上垣様人"
+      },
+      {
+        "imageUrl": "/team-1.webp",
+        "position": "ゼネラルマネージャー",
+        "name": "チョー・ピョー・ナイン"
+      }
+    ]
+  },
+  "myanmarTeamMembers": {
+    "title": "ミャンマーチームメンバー",
+    "participants": [
+      {
+        "imageUrl": "/team-6.webp",
+        "position": "人的資源/財務",
+        "name": "ショーン・レイ・モー・ウー"
+      },
+      {
+        "imageUrl": "/team-2.webp",
+        "position": "チームリーダー",
+        "name": "ス・モン・チョウー"
+      },
+      {
+        "imageUrl": "/team-3.webp",
+        "position": "シニアデベロッパー",
+        "name": "チョー・ジン・テッー"
+      },
+      {
+        "imageUrl": "/team-8.webp",
+        "position": "シニアデベロッパー",
+        "name": "Sサ・テェイン・ソー・サン"
+      },
+      {
+        "imageUrl": "/team-4.webp",
+        "position": "シニアデベロッパー",
+        "name": "ユ・ナ・ター"
+      },
+      {
+        "imageUrl": "/team-5.webp",
+        "position": "シニアデベロッパー",
+        "name": "シューウ・イー・モーン"
+      }
+    ]
+  },
+  "partners": {
+    "title": "Our Partners",
+    "participants": [
+      {
+        "imageUrl": "/Partner_1.webp",
+        "title": "VMO Japan",
+        "description": "The Professional Software Development Service Provider Alternatives & Competitors for Enterprise Businesses."
+      },
+      {
+        "imageUrl": "/Partner_2.webp",
+        "title": "Calypso Technology",
+        "description": "Global provider of capital markets software. Its integrated platform enables financial trading, processing, risk management and accounting across multiple asset classNamees and is used by over 35,000 market professionals in 60+ countries."
+      }
+    ]
+  }
+}

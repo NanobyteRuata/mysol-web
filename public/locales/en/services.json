@@ -1,0 +1,56 @@
+{
+  "title": "SERVICES",
+  "subtitle": "Innovative Digital Transformation",
+  "services": [
+    {
+      "title": "Software Development",
+      "subtitle": "Create complex enterprise software, ensure reliable software integration, modernise your legacy system.",
+      "buttonText": "Get Quoatation",
+      "imageUrl": "/service-01.webp"
+    },
+    {
+      "title": "Software Customization",
+      "subtitle": "Customize the solution as per the customer's requirement.Improved Software Quality and Reliable Solutions to excellent Architecture and values Data Privacy and Data Security.",
+      "buttonText": "Get Quoatation",
+      "imageUrl": "/service-02.webp"
+    },
+    {
+      "title": "Reliable system integration services",
+      "subtitle": "System integration consulting, API integration",
+      "buttonText": "Get Quoatation",
+      "imageUrl": "/service-03.webp"
+    },
+    {
+      "title": "Service and Maintenence",
+      "subtitle": "With our Software Maintenance services, we aim to correct the issues and faults in the product to improve its performance. Thus, your application requires periodic refreshes to ensure its smooth functioning.",
+      "buttonText": "Get Quoatation",
+      "imageUrl": "/service-04.webp"
+    },
+    {
+      "title": "Dedicated Development Team",
+      "subtitle": "Provide and serve with loyal and deep expertise as Solution Architecture and Project Managers, DevOps Members, UX UI Designers, and other necessary members that are put together to work on the project.",
+      "buttonText": "Get Quoatation",
+      "imageUrl": "/service-05.webp"
+    }
+  ],
+  "technologies": {
+    "title": "Technologies",
+    "imageUrls": [
+      "/html.svg",
+      "/css.svg",
+      "/bootstrap.svg",
+      "/js.svg",
+      "/php.svg",
+      "/reactjs.svg",
+      "/nextjs.svg",
+      "/nodejs.svg",
+      "/laravel.svg",
+      "/go-programming-language.svg",
+      "/c-sharp.svg",
+      "/mysql.svg",
+      "/sqlite.svg",
+      "/postgresql.svg",
+      "/ubuntu.svg"
+    ]
+  }
+}
