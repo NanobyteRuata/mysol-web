@@ -66,7 +66,7 @@ const Careers = () => {
                     returnObjects: true,
                   }) as string[]
                 ).map((detail, i) => (
-                  <li key="i">{detail}</li>
+                  <li key={i}>{detail}</li>
                 ))}
               </ul>
             </div>
@@ -123,7 +123,7 @@ const Careers = () => {
           </h1>
           {(t("jobOpportunities.jobs", { returnObjects: true }) as any[]).map(
             (job: any, i: number) => (
-              <div className="shadow p-5 flex flex-col mb-3 bg-white">
+              <div key={i} className="shadow p-5 flex flex-col mb-3 bg-white">
                 <div className="flex flex-col lg:flex-row self-stretch justify-between mb-5">
                   <h1 className="text-cyan-500 text-xl">
                     <MegaphoneIcon className="inline h-6 w-6 mr-2"></MegaphoneIcon>

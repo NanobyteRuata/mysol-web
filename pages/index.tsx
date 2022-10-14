@@ -3,10 +3,10 @@ import Head from "next/head";
 import { useTranslation } from "next-i18next";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 import Carousel, { SlideImage } from "../components/Carousel";
-import Link from "next/link";
-import Button from "../components/Button";
 import Clients from "../components/Clients";
 import Image from "next/future/image";
+import React from "react";
+import NavLink from "../components/NavLink";
 
 const Home: NextPage = () => {
   const { t } = useTranslation("home");
@@ -39,9 +39,7 @@ const Home: NextPage = () => {
           <p className="text-md lg:mx-24 m-4 text-justify">
             {t("quote.subtitle")}
           </p>
-          <Link href="/services">
-            <Button text={t("quote.actionText")}></Button>
-          </Link>
+          <NavLink href="services" text={t("quote.actionText")}></NavLink>
         </div>
       </div>
 
