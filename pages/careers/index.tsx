@@ -8,6 +8,7 @@ import { useTranslation } from "next-i18next";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 import Head from "next/head";
 import Button from "../../components/Button";
+import Image from "next/future/image";
 
 const Careers = () => {
   const { t } = useTranslation("career");
@@ -24,7 +25,13 @@ const Careers = () => {
         </h1>
 
         <div className="flex flex-col items-center lg:flex-row lg:items-start">
-          <img className="lg:w-1/2" src={t("benefits.imageUrl")} />
+          <Image
+            width={1920}
+            height={1080}
+            className="lg:w-1/2"
+            src={t("benefits.imageUrl")}
+            alt={""}
+          />
           <div className="flex flex-col lg:w-1/2 p-3">
             <h1 className="text-cyan-500 text-xl mb-3">
               {t("benefits.title")}

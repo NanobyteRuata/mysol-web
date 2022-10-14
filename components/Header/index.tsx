@@ -7,6 +7,7 @@ import Link from "next/link";
 import { useRouter } from "next/router";
 import { useTranslation } from "next-i18next";
 import { locales, Locale } from "../../constants/locales";
+import Image from "next/future/image";
 
 function classNames(...classes: string[]) {
   return classes.filter(Boolean).join(" ");
@@ -42,7 +43,13 @@ const Header = () => {
           <div className="flex justify-start items-center lg:w-0 lg:flex-1">
             <Link href="/">
               <a className="flex justify-start items-center">
-                <img className="h-8 w-auto sm:h-10" src="/logo.webp" alt="" />
+                <Image
+                  width={1920}
+                  height={1080}
+                  className="h-8 w-auto sm:h-10"
+                  src="/logo.webp"
+                  alt=""
+                />
                 <h1>
                   <b className={styles.logo_color_orange}>MY</b>
                   <b className={styles.logo_color_blue}>SOL</b>
@@ -157,7 +164,13 @@ const Header = () => {
             <div className="px-5 pt-5 pb-6">
               <div className="flex items-center justify-between">
                 <div className="flex justify-start items-center">
-                  <img className="h-8 w-auto sm:h-10" src="/logo.webp" alt="" />
+                  <Image
+                    width={1920}
+                    height={1080}
+                    className="h-8 w-auto sm:h-10"
+                    src="/logo.webp"
+                    alt=""
+                  />
                   <h1>
                     <b className={styles.logo_color_orange}>MY</b>
                     <b className={styles.logo_color_blue}>SOL</b>

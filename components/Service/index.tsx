@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import Button from "../Button";
+import Image from "next/future/image";
 
 export type ServiceProps = {
   imageUrl: string;
@@ -42,7 +43,13 @@ const Service = ({
       viewport={{ once: true }}
       whileInView={{ scale: 1 }}
     >
-      <img className="w-full" src={imageUrl} />
+      <Image
+        width={1920}
+        height={1080}
+        className="w-full"
+        src={imageUrl}
+        alt={""}
+      />
       {detail}
     </motion.div>
   );

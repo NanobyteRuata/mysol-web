@@ -5,6 +5,7 @@ import Card, { CardProps } from "../../components/Card";
 import Clients from "../../components/Clients";
 import ProfileIcon, { ProfileIconProps } from "../../components/ProfileIcon";
 import { ArrayUtils } from "../../utils/array.utils";
+import Image from "next/future/image";
 
 const About = () => {
   const { t } = useTranslation("about");
@@ -43,7 +44,13 @@ const About = () => {
             </h1>
             <p className="text-justify mr-3">{t("about.description")}</p>
           </div>
-          <img className="flex lg:w-1/2" src="/BC_ModernOffice.webp" />
+          <Image
+            width={1920}
+            height={1080}
+            className="flex lg:w-1/2"
+            src="/BC_ModernOffice.webp"
+            alt={""}
+          />
         </div>
 
         <div className="flex flex-col mb-32 items-center">

@@ -1,3 +1,4 @@
+import Image from "next/future/image";
 export type ProfileIconProps = {
   imageUrl: string;
   imageDiameter?: number;
@@ -19,9 +20,12 @@ const ProfileIcon = ({
 
   return (
     <div className="flex flex-col items-center m-5">
-      <img
+      <Image
+        width={1920}
+        height={1080}
         src={imageUrl}
         className="shadow rounded-full w-[216px] h-[216px] align-middle border-none"
+        alt={""}
       />
       <h1 className="text-md text-center">
         <i>{position}</i>

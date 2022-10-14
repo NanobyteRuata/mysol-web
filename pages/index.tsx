@@ -6,6 +6,7 @@ import Carousel, { SlideImage } from "../components/Carousel";
 import Link from "next/link";
 import Button from "../components/Button";
 import Clients from "../components/Clients";
+import Image from "next/future/image";
 
 const Home: NextPage = () => {
   const { t } = useTranslation("home");
@@ -22,9 +23,12 @@ const Home: NextPage = () => {
 
       {/* Quotes Section */}
       <div className="relative overflow-hidden">
-        <img
+        <Image
+          width={1920}
+          height={1080}
           className="w-auto lg:w-full min-h-[400px]"
           src={t("quote.imageUrl")}
+          alt={""}
         />
         <div className="absolute left-0 top-0 flex flex-col items-center justify-center w-full h-full bg-black bg-opacity-70">
           <h1 className="text-lg lg:text-2xl text-center w-full my-3 lg:my-10 lg:mx-24">

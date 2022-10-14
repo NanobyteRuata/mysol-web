@@ -1,3 +1,4 @@
+import Image from "next/future/image";
 import { useTranslation } from "next-i18next";
 
 const Clients = () => {
@@ -11,7 +12,9 @@ const Clients = () => {
       </h1>
       <div className="flex items-center">
         {imageUrls.map((imageUrl, i) => (
-          <img
+          <Image
+            width={1920}
+            height={1080}
             key={i}
             className="w-1/3 h-auto p-3 opacity-80 hover:scale-110 hover:opacity-100 transition"
             src={imageUrl}

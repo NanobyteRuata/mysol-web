@@ -3,6 +3,7 @@ import { Autoplay, Navigation, Pagination } from "swiper";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
+import Image from "next/future/image";
 
 export type SlideImage = {
   title: string;
@@ -31,8 +32,10 @@ const Carousel = ({ slideImages }: CarouselProps) => {
       >
         {slideImages.map((slideImage, i) => (
           <SwiperSlide className="relative" key={i}>
-            <img
+            <Image
               className="object-fill w-full lg:h-auto min-h-[300px] max-h-[85vh]"
+              width={1920}
+              height={1080}
               src={slideImage.imageUrl}
               alt={slideImage.title}
             />

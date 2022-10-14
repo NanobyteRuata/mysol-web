@@ -1,9 +1,8 @@
 import { useTranslation } from "next-i18next";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 import Head from "next/head";
-import Button from "../../components/Button";
-import { motion } from "framer-motion";
 import Service from "../../components/Service";
+import Image from "next/future/image";
 
 const Services = () => {
   const { t } = useTranslation("services");
@@ -39,11 +38,16 @@ const Services = () => {
         </h1>
         <div className="flex flex-wrap max-w-[768px] self-center mb-10">
           {technologies.map((technology: any, i: number) => (
-            <div className="w-[128px] h-[128px] rounded-[64px] p-8 m-3 bg-white flex items-center justify-center">
-              <img
+            <div
+              key={i}
+              className="w-[128px] h-[128px] rounded-[64px] p-8 m-3 bg-white flex items-center justify-center"
+            >
+              <Image
+                width={1920}
+                height={1080}
                 // className="w-[128px] h-[128px] rounded-[64px] bg-white"
-                key={i}
                 src={technology}
+                alt={""}
               />
             </div>
           ))}

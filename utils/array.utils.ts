@@ -4,7 +4,6 @@ export class ArrayUtils {
     let tempArr: any[];
     let resultArr: any[] = [];
     let iteration: number = parseInt((arr.length / splitEvery).toString()) + 1;
-    console.log(iteration);
 
     for (let i = 0; i < iteration; i++) {
       tempArr = cloneArr.splice(0, splitEvery);
